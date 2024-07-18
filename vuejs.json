@@ -1,0 +1,27 @@
+{
+  "editor.fontSize": 17,
+  "workbench.colorTheme": "GitHub Dark",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.run": "onSave",
+  "workbench.settings.applyToAllProfiles": ["prettier.configPath"],
+  "prettier.endOfLine": "auto",
+  "eslint.format.enable": true,
+  "debug.javascript.terminalOptions": {},
+
+  "editor.fontFamily": "'Comic Sans MS', 'Courier New', monospace",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.codeActionsOnSave": {
+  
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.tabSize": 2,
+
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "typescript.tsc.autoDetect": "on"
+}
+
